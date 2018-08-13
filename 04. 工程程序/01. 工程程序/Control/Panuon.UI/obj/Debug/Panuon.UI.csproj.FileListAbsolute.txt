@@ -41,6 +41,7 @@ D:\Panuon Repo\PanuonUI\Panuon.UI\obj\Debug\Panuon.UI.dll
 D:\Panuon Repo\PanuonUI\Panuon.UI\obj\Debug\Panuon.UI.pdb
 E:\Dual-keyboard-switchingTool\04. 工程程序\01. 工程程序\Control\Panuon.UI\bin\Debug\Panuon.UI.dll
 E:\Dual-keyboard-switchingTool\04. 工程程序\01. 工程程序\Control\Panuon.UI\bin\Debug\Panuon.UI.pdb
+E:\Dual-keyboard-switchingTool\04. 工程程序\01. 工程程序\Control\Panuon.UI\obj\Debug\Panuon.UI.csprojResolveAssemblyReference.cache
 E:\Dual-keyboard-switchingTool\04. 工程程序\01. 工程程序\Control\Panuon.UI\obj\Debug\9_Special\PULoading.g.cs
 E:\Dual-keyboard-switchingTool\04. 工程程序\01. 工程程序\Control\Panuon.UI\obj\Debug\9_Special\PUMessageBox.g.cs
 E:\Dual-keyboard-switchingTool\04. 工程程序\01. 工程程序\Control\Panuon.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
